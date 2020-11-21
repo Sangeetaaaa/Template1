@@ -1,0 +1,33 @@
+body {
+    color: #eee;
+}
+
+.heading {
+    background-color: #5a189a;
+    color: #e0aaff;
+    height: 400px;
+}
+
+.heading h1 {
+    padding-top: 150px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading p {
+    color: #3c096c;
+}
+
+
+.contact__box1 {
+}
+
+.contact__box2 {
+}
+
+.footer {
+    margin-top: 400px;
+    margin-bottom: 0;
+    background-color: #5a189a;
+    color: white;
+    padding: 50px
+}
